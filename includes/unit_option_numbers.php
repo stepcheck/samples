@@ -1,0 +1,23 @@
+
+						<option value="1" <?php if($this_listing_num_units == '1') {echo 'selected';} ?>>1 Unit</option>
+						<option value="2" <?php if($this_listing_num_units == '2') {echo 'selected';} ?>>2 Units</option>
+						<option value="3" <?php if($this_listing_num_units == '3') {echo 'selected';} ?>>3 Units</option>
+						<option value="4" <?php if($this_listing_num_units == '4') {echo 'selected';} ?>>4 Units</option>
+						<option value="5" <?php if($this_listing_num_units == '5') {echo 'selected';} ?>>5 Units</option>
+						<option value="6" <?php if($this_listing_num_units == '6') {echo 'selected';} ?>>6 Units</option>
+						<option value="7" <?php if($this_listing_num_units == '7') {echo 'selected';} ?>>7 Units</option>
+						<option value="8" <?php if($this_listing_num_units == '8') {echo 'selected';} ?>>8 Units</option>
+						<option value="9" <?php if($this_listing_num_units == '9') {echo 'selected';} ?>>9 Units</option>
+						<option value="10" <?php if($this_listing_num_units == '10') {echo 'selected';} ?>>10 Units</option>
+						<option value="11" <?php if($this_listing_num_units == '11') {echo 'selected';} ?>>11 Units</option>
+						<option value="12" <?php if($this_listing_num_units == '12') {echo 'selected';} ?>>12 Units</option>
+						<option value="13" <?php if($this_listing_num_units == '13') {echo 'selected';} ?>>13 Units</option>
+						<option value="14" <?php if($this_listing_num_units == '14') {echo 'selected';} ?>>14 Units</option>
+						<option value="15" <?php if($this_listing_num_units == '15') {echo 'selected';} ?>>15 Units</option>
+						<option value="16" <?php if($this_listing_num_units == '16') {echo 'selected';} ?>>16 Units</option>
+						<option value="17" <?php if($this_listing_num_units == '17') {echo 'selected';} ?>>17 Units</option>
+						<option value="18" <?php if($this_listing_num_units == '18') {echo 'selected';} ?>>18 Units</option>
+						<option value="19" <?php if($this_listing_num_units == '19') {echo 'selected';} ?>>19 Units</option>
+						<option value="20-49" <?php if($this_listing_num_units == '20-49') {echo 'selected';} ?>>20-49 Units</option>
+						<option value="50-99" <?php if($this_listing_num_units == '50-99') {echo 'selected';} ?>>50-99 Units</option>
+						<option value="100+" <?php if($this_listing_num_units == '100+') {echo 'selected';} ?>>100+ Units</option>
